@@ -10,6 +10,7 @@
 
 Ejecutar los programas con los siguientes comandos 
 
-`gcc -o piSeriesSeq piSeriesSeq.c -lm
-gcc -o piSeriesNaive piSeriesNaive.c -fopenmp -lm
-`
+`gcc -o piSeriesSeq piSeriesSeq.c -lm`
+
+`gcc -o piSeriesNaive piSeriesNaive.c -fopenmp -lm`
+
